@@ -1,0 +1,4 @@
+shoppinglist\repository\DaftarBelanjaDetilRepo.class
+shoppinglist\entity\DaftarBelanja.class
+shoppinglist\repository\DaftarBelanjaRepo.class
+shoppinglist\service\ShoppingListService.class
